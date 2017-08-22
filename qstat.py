@@ -1,4 +1,5 @@
 #!/usr/bin/python
+from prettytable import PrettyTable
 import subprocess
 
 class job:
