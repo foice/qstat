@@ -1,6 +1,10 @@
 #!/usr/bin/python
-from prettytable import PrettyTable
 import subprocess
+#from tabulate import tabulate
+#from prettytable import PrettyTable
+#from texttable import Texttable
+#from beautifultable import BeautifulTable
+import table_print
 
 class job:
 	def __init__(self):
